@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cnblogs.com	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.b8-pDmTq1XM	CfDJ8Ct_7-Gh-gZNte6RB_khjDqb_ZEdhuMTKd5et_Ilxh4X63dwXF_F4kzhb88qFcvPeWhaUALN3LDLipYbnh8h2kgdRnbRvgpw3SkEGD728CP29QKJrpmiPQhFpHp5UyoNcra1ZoVUw9X7FcjbAHn8dbI
+
